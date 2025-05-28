@@ -34,5 +34,11 @@
     "model": "Taycan Turbo S",
     "year": 2025,
     "hp": 952
+  },
+  {
+    "brand": "BMW",
+    "model": "M2 Competition",
+    "year": 2025,
+    "hp": 473
   }
 ]
