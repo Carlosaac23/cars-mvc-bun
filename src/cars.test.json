@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Supra",
+    "year": 2020,
+    "hp": 382
+  },
+  {
+    "brand": "Nissan",
+    "model": "GT-R",
+    "year": 2019,
+    "hp": 565
+  }
+]
